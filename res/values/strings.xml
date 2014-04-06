@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">OmniSwitch</string>
     <string name="status_bar_recent_remove_item_title">Stop</string>
-    <string name="status_bar_recent_inspect_item_title">App info</string>
+    <string name="package_inspect_item_title">App info</string>
     <string name="recents_settings_title">OmniSwitch</string>
     <string name="start_on_boot_title">Start on boot</string>
     <string name="start_on_boot_summary">Start and enable on device boot</string>
@@ -80,4 +80,10 @@
     <string name="gravity_title">Horizontal gravity</string>
     <string name="gravity_center">Center</string>
     <string name="gravity_drag">Drag handle side</string>
+    <string name="dialog_pick_iconpack_title">Pick icon pack</string>
+    <string name="default_iconpack_title">Default icons</string>
+    <string name="icon_packs_title">Icon packs</string>
+    <string name="no_iconpacks_summary">No icon packs installed</string>
+    <string name="icon_pack_title">Icon pack</string>
+    <string name="icon_pack_summary">Use icon pack for app icons</string>
 </resources>
